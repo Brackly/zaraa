@@ -7,7 +7,7 @@ import json
 if "history" not in st.session_state:
     st.session_state.history = []
 
-st.title("chat with zaraa")
+st.title("chat with zaraa 😊")
 
 # One more thing: Please note that zaraa is still in demo mode and might take a little bit more time to obtain your answer.
 original_title = '<p style="color:Green; font-size: 20px;">Type your question in the textbox below</p>'
