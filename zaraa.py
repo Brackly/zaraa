@@ -33,10 +33,10 @@ def run():
         - You can ask it any questions about and regarding:
         - **The suitable climatic conditions for tea cultivation**
         - **The economic importance of the tea industry in Kenya**
-        - ** information on the types of teas produced, the regions where tea is grown, the ideal climate and soil conditions, and the methods of cultivation and processing.**
-        - **details on the scientific innovations in tea cultivation, including the development of clonal planting materials and the use of environmental response tests to select the best clones for specific regions. **
-        - **challenges  facing tea-dependent livelihoods in Kenya**
-        - ** Different bodies and stakeholders for Tea in Kenya**
+        - **Information on the types of teas produced, the regions where tea is grown, the ideal climate and soil conditions, and the methods of cultivation and processing.**
+        - **Details on the scientific innovations in tea cultivation, including the development of clonal planting materials and the use of environmental response tests to select the best clones for specific regions. **
+        - **Challenges  facing tea-dependent livelihoods in Kenya**
+        - **Different bodies and stakeholders for Tea in Kenya**
     """
     )
 
