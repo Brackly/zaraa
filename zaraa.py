@@ -20,7 +20,7 @@ def run():
         
     st.markdown(
         """
-        ## Please note:
+        ### Please note:
         - Zaraa was trained on publicly available data from the internet.
         - The data was scraped from the following sites:
         - https://ktdateas.com/
