@@ -17,7 +17,7 @@ def run():
         ### Let's take  this chance to introduce **Zaraa!** 
         - Zaraa is a conversational engine that seeks to help small scale farmers get access to relevant information to inform their agricultural activities.
         """)
-    original_title = '<p style="color:Green; font-size: 20px;">  Zaraa translated to english is:  Agriculture. 😊</p>'
+    original_title = '<p style="color:Green; font-size: 20px;">  Zaraa translated to english is:  🥁🥁🥁 ...Agriculture. 😁</p>'
     st.markdown(original_title, unsafe_allow_html=True)
     
     st.markdown(
