@@ -42,7 +42,7 @@ def run():
 
 
 
-    st.write("Click [here](https://zaraaAi.streamlit.app) to launch the demo.")
+    st.write("Click [here](https://zaraaai.streamlit.app/Demo) to launch the demo.")
 
 if __name__ == "__main__":
     run()
