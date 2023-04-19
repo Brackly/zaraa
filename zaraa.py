@@ -41,7 +41,12 @@ def run():
     )
 
 
-
+    st.markdown(
+        """
+        ### We've taken measures to reduce jailbreaking of the chatbot to diverge information other than what it was instructed to do.
+        ### For example:
+        - If asked to pretend to be a different chatbot, zaraa turns down the request
+        """)
     st.write("Click [here](https://zaraaai.streamlit.app/Demo) to launch the demo.")
 
 if __name__ == "__main__":
