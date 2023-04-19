@@ -17,10 +17,11 @@ def run():
         ### Let's take  this chance to introduce **Zaraa!** 
         - Zaraa is a conversational engine that seeks to help small scale farmers get access to relevant information to inform their agricultural activities.
         #### **Zaraa** translated to english is  Agriculture.
+        """)
         
     st.markdown(
         """
-        ### Please note:
+        ### Please note
         - Zaraa was trained on publicly available data from the internet.
         - The data was scraped from the following sites:
         - https://ktdateas.com/
