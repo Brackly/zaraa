@@ -17,7 +17,7 @@ def run():
         ### Let's take  this chance to introduce **Zaraa!** 
         - Zaraa is a conversational engine that seeks to help small scale farmers get access to relevant information to inform their agricultural activities.
         """)
-    original_title = '<p style="color:Green; font-size: 20px;">  **Zaraa** translated to english is:  Agriculture.</p>'
+    original_title = '<p style="color:Green; font-size: 20px;">  Zaraa translated to english is:  Agriculture. 😊</p>'
     st.markdown(original_title, unsafe_allow_html=True)
     
     st.markdown(
@@ -29,9 +29,10 @@ def run():
         - https://rikeshkanji.weebly.com/
         - https://www.teaboard.or.ke/kenya-tea/history-of-kenyan-tea
         - https://ktga.or.ke/
-        - **Zaraa can only communicate in English for now, we are still yet to train zaraa to answer and accept questions in the kenyan local languages**
+        
+        ### Zaraa can only communicate in English for now, we are still yet to train zaraa to answer and accept questions in the kenyan local languages
 
-        - You can ask it any questions about and regarding:
+        ### You can ask it any questions about and regarding:
         - **The suitable climatic conditions for tea cultivation**
         - **The economic importance of the tea industry in Kenya**
         - **Information on the types of teas produced, the regions where tea is grown, the ideal climate and soil conditions, and the methods of cultivation and processing.**
@@ -45,7 +46,7 @@ def run():
     st.markdown(
         """
         ### We've taken measures to reduce jailbreaking of the chatbot to diverge information other than what it was instructed to do.
-        ### For example:
+        #### For example:
         - If asked to pretend to be a different chatbot, zaraa turns down the request
         """)
     st.write("Click [here](https://zaraaai.streamlit.app/Demo) to launch the demo.")
